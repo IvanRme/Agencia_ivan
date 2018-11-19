@@ -1,0 +1,36 @@
+h1 { 
+text-align: center;
+    margin-bottom:  20px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+p {
+    margin: 5px;
+    
+    
+}
+
+img 
+    {
+    height: 180px;
+    width: 180px;
+    margin-right: 30px;    
+}
+
+body{
+    background: url(imagens_agencia/aviao.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+    
+a {
+    color: darkviolet;
+    
+    
+}
